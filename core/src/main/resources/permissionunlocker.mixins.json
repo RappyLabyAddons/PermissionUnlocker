@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.rappytv.permissionunlocker.mixins",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "MixinClientPermission"
+  ],
+  "client": [
+  ],
+  "server": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

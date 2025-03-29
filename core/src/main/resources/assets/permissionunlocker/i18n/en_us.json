@@ -2,7 +2,7 @@
   "permissionunlocker": {
     "settings": {
       "enabled": {
-        "name": "Enabled"
+        "name": "Unlock all permissions"
       }
     }
   }
